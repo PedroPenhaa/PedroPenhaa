@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 <h1 align="left">Olá, seja bem vindo ao meu perfil! 😄 </h1>
-<h6>
+<h5>
 Me chamo Pedro Afonso, tenho 24 anos e sou graduando do curso de Engenharia de Computação no <a href="https://portal.pcs.ifsuldeminas.edu.br/">Instituto Federal, Campus Poços de Caldas</a>, do Sul de Minas Gerais. 📚
 <br></br>
-</h6>
+</h5>
 <h3>Soft Skills:<h3> 
 <div style="display: inline_block" align="center"><br>
 <a href="https://html5.org/" target="_blank"><img align="center" title="HTML5" alt="Pedro-HTML" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"></a>
