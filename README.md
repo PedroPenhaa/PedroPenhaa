@@ -17,6 +17,7 @@ Me chamo Pedro Afonso, tenho 24 anos e sou graduando do curso de Engenharia de C
 </div><br>
 <h3>Tecnologias que tenho utilizado no momento:<h3> 
   <div style="display: inline_block" align="center"><br>
+  
     
 [![Top Langs](https://github-readme-status.vercel.app/api/top-langs?username=PedroPenhaa&layout=compact)](https://github.com/anuraghaza/github-readme-stats)
 
