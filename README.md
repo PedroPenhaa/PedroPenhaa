@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 <h1 align="left">Olá, seja bem vindo ao meu perfil! 😄 </h1>
 <h6>
-Me chamo Pedro Afonso, tenho 24 anos e sou graduando do curso de Engenharia de Computação no <a href="https://portal.pcs.ifsuldeminas.edu.br/">Instituto Federal, Campus Poços de Caldas</a>, Sul de Minas Gerais. 📚
+Me chamo Pedro Afonso, tenho 24 anos e sou graduando do curso de Engenharia de Computação no <a href="https://portal.pcs.ifsuldeminas.edu.br/">Instituto Federal, Campus Poços de Caldas</a>, do Sul de Minas Gerais. 📚
 <br></br>
 </h6>
 <h3>Soft Skills:<h3> 
@@ -33,4 +33,3 @@ Me chamo Pedro Afonso, tenho 24 anos e sou graduando do curso de Engenharia de C
 <a href="https://www.linkedin.com/in/pedro-afonso98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.facebook.com/pedr0penha98/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div><br>
- 
