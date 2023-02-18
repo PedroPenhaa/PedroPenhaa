@@ -13,7 +13,7 @@ Me chamo Pedro Afonso, tenho 24 anos e sou graduando do curso de Engenharia de C
 <a href="https://www.android.com/intl/pt-BR_br/" target="_blank"><img align="center" title="Android" alt="Pedro-ANDROID" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png"></a>
 <a href="https://www.java.com/pt-BR/" target="_blank"><img align="center" title="Java" alt="Pedro-JAVA" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919854.png"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="center" title="Git" alt="Pedro-GIT" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png"></a>
-<a href="https://www.linux.org/"><img align="center" title="Git" alt="Pedro-GIT" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/546/546049.png"></a>
+ <a href="https://www.linux.org/"><img align="center" title="Linux" alt="Pedro-LINUX" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/546/546049.png"></a>
 </div><br>
 <h3>Tecnologias que tenho utilizado no momento:<h3> 
   <div style="display: inline_block" align="center"><br>
