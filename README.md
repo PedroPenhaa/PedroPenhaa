@@ -35,3 +35,8 @@ Me chamo Pedro Afonso, tenho 24 anos e sou graduando do curso de Engenharia de C
 <a href="https://www.linkedin.com/in/pedro-afonso98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.facebook.com/pedr0penha98/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div><br>
+
+ 
+ 
+  ![Snake animation](https://github.com/PedroPenhaa/PedroPenhaa/blob/output/github-contribution-grid-snake.svg)
+ 
