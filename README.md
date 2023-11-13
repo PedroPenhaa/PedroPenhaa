@@ -1,38 +1,104 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-<h1 align="left">Olá, seja bem vindo ao meu perfil! 😄 </h1>
-<h5>
-Me chamo Pedro Afonso, tenho 24 anos e sou graduando do curso de Engenharia de Computação no <a href="https://portal.pcs.ifsuldeminas.edu.br/">Instituto Federal, Campus Poços de Caldas</a>, do Sul de Minas Gerais. 📚
-<br></br>
-</h5>
-<h3>Soft Skills:<h3> 
-<div style="display: inline_block" align="center"><br>
-<a href="https://html5.org/" target="_blank"><img align="center" title="HTML5" alt="Pedro-HTML" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"></a>
- <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="center" title="Css3" alt="Pedro-CSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></a>
-<a href="https://sass-lang.com/" target="_blank"><img align="center" title="Sass" alt="Pedro-SASS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919831.png"></a>
-<a href="https://www.javascript.com/" target="_blank"><img align="center" title="Javascript" alt="Pedro-JAVASCRIPT" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></a>
-<a href="https://www.android.com/intl/pt-BR_br/" target="_blank"><img align="center" title="Android" alt="Pedro-ANDROID" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png"></a>
-<a href="https://www.java.com/pt-BR/" target="_blank"><img align="center" title="Java" alt="Pedro-JAVA" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919854.png"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="center" title="Git" alt="Pedro-GIT" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png"></a>
- <a href="https://www.linux.org/"><img align="center" title="Linux" alt="Pedro-LINUX" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/546/546049.png"></a>
-</div><br>
-<h3>Tecnologias que tenho utilizado no momento:<h3> 
-  <div style="display: inline_block" align="center"><br>
-  
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Perfil</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropenhaa&layout=compact&langs_count=7"/>
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
 
+        section {
+            max-width: 600px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
 
-</div><br>
-<h3>Sobre:<h3> 
-<h6>➡   Atualmente tenho trabalhado em projetos pessoais com tecnologias voltadas para o Front-End para Web e aplicativos mobile;</h6>
-<h6>➡   No momento estou buscando desenvolver meus conhecimentos aplicados em Html, Sass e Javascript;</h6>
-<h6>➡   Todos os meus projetos estão disponíveis em<a href="https://github.com/PedroPenhaa?tab=repositories"> Meus Repositórios</a></h6>
-</h6>
-<h3>Contato:<h3> 
-<div style="display: inline_block" align="center"><br>
-<a href="https://www.instagram.com/pedro.penha98/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:pedro.eng98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-afonso98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.facebook.com/pedr0penha98/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-</div><br>
+        h1 {
+            color: #333;
+        }
 
+        h3 {
+            color: #555;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #007B5;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Olá, seja bem-vindo ao meu perfil! 😄</h1>
+    </header>
+
+    <section>
+        <h3>Meu Nome: Pedro Afonso</h3>
+        <p>Graduando em Engenharia de Computação no Instituto Federal, Campus Poços de Caldas.</p>
+
+        <h3>Soft Skills:</h3>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>Sass</li>
+            <li>Javascript</li>
+            <li>Android</li>
+            <li>Java</li>
+            <li>Git</li>
+            <li>Linux</li>
+        </ul>
+
+        <h3>Tecnologias Atuais:</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropenhaa&layout=compact&langs_count=7" alt="Linguagens mais usadas">
+
+        <h3>Sobre Mim:</h3>
+        <p>
+            Atualmente trabalhando em projetos pessoais com tecnologias Front-End para Web e aplicativos mobile. Buscando desenvolver conhecimentos em HTML, Sass e Javascript.
+            Todos os meus projetos estão disponíveis em <a href="https://github.com/PedroPenhaa?tab=repositories">Meus Repositórios</a>.
+        </p>
+
+        <h3>Contato:</h3>
+        <ul>
+            <li><a href="https://www.instagram.com/pedro.penha98/" target="_blank">Instagram</a></li>
+            <li><a href="mailto:pedro.eng98@gmail.com">Email</a></li>
+            <li><a href="https://www.linkedin.com/in/pedro-afonso98/" target="_blank">LinkedIn</a></li>
+            <li><a href="https://www.facebook.com/pedr0penha98/" target="_blank">Facebook</a></li>
+        </ul>
+    </section>
+
+</body>
+</html>
