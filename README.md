@@ -38,6 +38,6 @@ Me chamo Pedro Afonso, tenho 24 anos e sou graduando do curso de Engenharia de C
 
 
 
-![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedropenhaa/pedropenhaa/blob/output/github-contribution-grid-snake.svg)
 
  
